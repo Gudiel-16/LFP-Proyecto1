@@ -1,0 +1,3 @@
+digraph grafica{
+rankdir=LR;size="8,5"node [shape = record];Ella [label = "Ella|node [shape = record];El [label = "El|-----|-----"];node [shape = record];El2 [label = "El2|node [shape = record];NombreDelSuegro [label = "NombreDelSuegro|-----|-----"];
+"Ella" -> "El2" [arrowhead="diamond"]}
